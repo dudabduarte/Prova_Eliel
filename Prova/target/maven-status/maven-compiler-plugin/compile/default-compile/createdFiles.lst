@@ -1,0 +1,6 @@
+Duda\Prova\control\ProdutoControl.class
+Duda\Prova\models\ProdutoModel.class
+Duda\Prova\Enum\StatusProduto.class
+Duda\Prova\ProvaApplication.class
+Duda\Prova\repositories\ProdutoRepository.class
+Duda\Prova\service\ProdutoService.class
